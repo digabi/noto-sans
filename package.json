@@ -6,7 +6,10 @@
   "author": "The Digabi project authors",
   "license": "UNLICENSED",
   "files": [
-    "stylesheet.css"
+    "*.css",
+    "TTF",
+    "WOFF",
+    "WOFF2"
   ],
   "devDependencies": {
     "64": "^0.2.0",
@@ -14,6 +17,6 @@
     "yargs": "^13.3.0"
   },
   "scripts": {
-    "prepublish": "node generate-stylesheet.js -o stylesheet.css"
+    "prepublish": "node generate-stylesheet.js -o woff2.css"
   }
 }
