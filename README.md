@@ -12,7 +12,7 @@ Your Noto Sans font, packaged.
 
 ## Update Noto sans fonts
 
-1. Copy ttf fonts from official noto sans and noto mono pages to TTF folder
+1. Copy ttf fonts from official noto sans web page to your computer
 2. Convert ttf fonts to woff fonts. Example:
   - ttf2woff TTF/NotoSans-SemiBoldItalic.ttf WOFF/NotoSans-SemiBoldItalic.woff
 3. Convert ttf fonts to woff2 fonts. Example:
