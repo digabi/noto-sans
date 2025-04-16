@@ -7,7 +7,6 @@
   "license": "UNLICENSED",
   "files": [
     "*.css",
-    "TTF",
     "WOFF",
     "WOFF2"
   ],
